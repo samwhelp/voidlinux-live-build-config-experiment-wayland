@@ -1,0 +1,6 @@
+swaybg
+swayidle
+Waybar
+mako
+foot
+wf-shell
