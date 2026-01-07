@@ -6,3 +6,6 @@ foot
 wofi
 wlogout
 wf-shell
+grimshot
+nwg-look
+nwg-launchers
