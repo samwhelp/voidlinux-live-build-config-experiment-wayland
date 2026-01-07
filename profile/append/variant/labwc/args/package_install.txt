@@ -3,4 +3,6 @@ swayidle
 Waybar
 mako
 foot
+wofi
+wlogout
 wf-shell
