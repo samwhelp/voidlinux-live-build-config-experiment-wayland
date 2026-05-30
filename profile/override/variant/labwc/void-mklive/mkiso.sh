@@ -183,6 +183,11 @@ build_variant() {
             SERVICES="$SERVICES dbus lightdm NetworkManager polkitd"
             LIGHTDM_SESSION=labwc
         ;;
+        niri)
+            PKGS="$PKGS $XORG_PKGS $WAYLAND_PKGS xorg-server-xwayland lightdm lightdm-gtk-greeter niri gnome-themes-standard gnome-keyring network-manager-applet gvfs-afc gvfs-mtp gvfs-smb udisks2 firefox"
+            SERVICES="$SERVICES dbus lightdm NetworkManager polkitd"
+            LIGHTDM_SESSION=niri
+        ;;
         *)
             >&2 echo "Unknown variant $variant"
             exit 1
