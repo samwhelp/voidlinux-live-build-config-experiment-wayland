@@ -48,7 +48,6 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Voidlinux Adjustment](https://samwhelp.github.io/voidlinux-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-adjustment) |
-| [Brgvos Adjustment](https://samwhelp.github.io/voidlinux-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-adjustment) |
 
 
 
